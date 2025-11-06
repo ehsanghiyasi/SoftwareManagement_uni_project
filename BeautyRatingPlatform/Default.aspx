@@ -169,10 +169,12 @@
   </main>
 
   <footer>
-    © <span id="y"></span> کلینک زیبایی ملی مهارت • همه حقوق محفوظ استssssssssssssss
+    © <span id="y"></span> کلینک زیبایی ملی مهارت • همه حقوق محفوظ است
   </footer>
 
   <script src="Scripts/script.js"></script>
 </body>
 </html>
 
+
+1515151515
