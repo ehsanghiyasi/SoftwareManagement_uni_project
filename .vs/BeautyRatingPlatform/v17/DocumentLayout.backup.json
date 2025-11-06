@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{B89D1A20-36DC-45A1-A6CB-76D42C73220D}|BeautyRatingPlatform\\BeautyRatingPlatform.csproj|solutionrelative:beautyratingplatform\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B89D1A20-36DC-45A1-A6CB-76D42C73220D}|BeautyRatingPlatform\\BeautyRatingPlatform.csproj|C:\\Users\\mohamad\\source\\repos\\SoftwareManagement_uni_project\\beautyratingplatform\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{B89D1A20-36DC-45A1-A6CB-76D42C73220D}|BeautyRatingPlatform\\BeautyRatingPlatform.csproj|solutionrelative:beautyratingplatform\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{B89D1A20-36DC-45A1-A6CB-76D42C73220D}|BeautyRatingPlatform\\BeautyRatingPlatform.csproj|c:\\users\\mohamad\\source\\repos\\softwaremanagement_uni_project\\beautyratingplatform\\scripts\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B89D1A20-36DC-45A1-A6CB-76D42C73220D}|BeautyRatingPlatform\\BeautyRatingPlatform.csproj|solutionrelative:beautyratingplatform\\scripts\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D1A20-36DC-45A1-A6CB-76D42C73220D}|BeautyRatingPlatform\\BeautyRatingPlatform.csproj|c:\\users\\mohamad\\source\\repos\\softwaremanagement_uni_project\\beautyratingplatform\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B89D1A20-36DC-45A1-A6CB-76D42C73220D}|BeautyRatingPlatform\\BeautyRatingPlatform.csproj|solutionrelative:beautyratingplatform\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,23 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WebForm1.aspx",
-              "DocumentMoniker": "C:\\Users\\mohamad\\source\\repos\\SoftwareManagement_uni_project\\BeautyRatingPlatform\\WebForm1.aspx",
-              "RelativeDocumentMoniker": "BeautyRatingPlatform\\WebForm1.aspx",
-              "ToolTip": "C:\\Users\\mohamad\\source\\repos\\SoftwareManagement_uni_project\\BeautyRatingPlatform\\WebForm1.aspx",
-              "RelativeToolTip": "BeautyRatingPlatform\\WebForm1.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-11-06T18:24:32.703Z"
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\mohamad\\source\\repos\\SoftwareManagement_uni_project\\BeautyRatingPlatform\\scripts\\script.js",
+              "RelativeDocumentMoniker": "BeautyRatingPlatform\\scripts\\script.js",
+              "ToolTip": "C:\\Users\\mohamad\\source\\repos\\SoftwareManagement_uni_project\\BeautyRatingPlatform\\scripts\\script.js",
+              "RelativeToolTip": "BeautyRatingPlatform\\scripts\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-06T20:53:36.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\mohamad\\source\\repos\\SoftwareManagement_uni_project\\BeautyRatingPlatform\\Content\\style.css",
+              "RelativeDocumentMoniker": "BeautyRatingPlatform\\Content\\style.css",
+              "ToolTip": "C:\\Users\\mohamad\\source\\repos\\SoftwareManagement_uni_project\\BeautyRatingPlatform\\Content\\style.css",
+              "RelativeToolTip": "BeautyRatingPlatform\\Content\\style.css",
+              "ViewState": "AgIAAHwBAAAAAAAAAAAAwKQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-06T20:48:11.225Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
